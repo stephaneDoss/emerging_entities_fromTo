@@ -1,0 +1,143 @@
+Je     O
+voudrais   O
+aller  O
+de     O
+Toulouse  B-DEPART
+à     O
+Bordeaux  B-ARRIVEE
+
+Comment     O
+me     O
+rendre  O
+à     O
+Port-Boulet  B-DEPART
+depuis     O
+la     O
+gare     O
+de     O
+Tours  B-ARRIVEE
+?     O
+
+Je     O
+veux   O
+aller  O
+voir     O
+mon     O
+ami     O
+Albert     O
+à     O
+Tours  B-DEPART
+en     O
+partant     O
+de     O
+Bordeaux  B-ARRIVEE
+
+Il     O
+y     O
+a     O
+t-il  O
+des     O
+trains     O
+de     O
+Nantes  B-DEPART
+à     O
+Montaigu  B-ARRIVEE
+
+Une     O
+phrase     O
+sans     O
+origine  O
+ni    O
+destination     O
+
+Si     O
+pas     O
+de     O
+numéro  O
+depuis  O
+sequence  O
+il     O
+zero  O
+
+Is     O
+there     O
+any     O
+train     O
+going     O
+from     O
+Paris     B-DEPART
+to     O
+Marseille  B-ARRIVEE
+?     O
+
+Je     O
+souhaite   O
+me     O
+rendre  O
+de     O
+Lyon  B-DEPART
+à     O
+Paris  B-ARRIVEE
+
+Comment     O
+peut-on     O
+aller  O
+de     O
+Bordeaux  B-DEPART
+à     O
+Nice  B-ARRIVEE
+en     O
+train  O
+?      O
+
+Je     O
+cherche     O
+un     O
+moyen  O
+de     O
+voyager  O
+de     O
+Marseille  B-DEPART
+à     O
+Lille  B-ARRIVEE
+en     O
+bus  O
+ou     O
+en     O
+avion  O
+.      O
+
+Y a-t-il     O
+des     O
+trains  O
+directs  O
+de     O
+Strasbourg  B-DEPART
+à     O
+Nantes  B-ARRIVEE
+?
+
+Paris  B-DEPART
+est     O
+une     O
+ville  O
+très     O
+fréquentée     O
+par     O
+les     O
+touristes  O
+.       O
+
+Je     O
+veux   O
+aller  O
+de     O
+Brest  B-DEPART
+à     O
+Rennes  B-ARRIVEE
+pour     O
+un     O
+voyage  O
+d'affaires  O
+.           O
+
