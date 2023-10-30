@@ -1,289 +1,289 @@
-1	Je	0
-1	voudrais	0
-1	aller	0
-1	de	0
-1	Toulouse	1
-1	à	0
-1	Bordeaux	3
+Je	0
+voudrais	0
+aller	0
+de	0
+Toulouse	1
+à	0
+Bordeaux	3
 
-2	Comment	0
-2	me	0
-2	rendre	0
-2	à	0
-2	Port-Boulet	1
-2	depuis	0
-2	la	0
-2	gare	0
-2	de	0
-2	Tours	1
-2	?	0
+Comment	0
+me	0
+rendre	0
+à	0
+Port-Boulet	1
+depuis	0
+la	0
+gare	0
+de	0
+Tours	1
+?	0
 
-3	Je	0
-3	veux	0
-3	aller	0
-3	voir	0
-3	mon	0
-3	ami	0
-3	Albert	0
-3	à	0
-3	Tours	1
-3	en	0
-3	partant	0
-3	de	0
-3	Bordeaux	3
+Je	0
+veux	0
+aller	0
+voir	0
+mon	0
+ami	0
+Albert	0
+à	0
+Tours	1
+en	0
+partant	0
+de	0
+Bordeaux	3
 
-4	Il	0
-4	y	0
-4	a	0
-4	t-il	0
-4	des	0
-4	trains	0
-4	de	0
-4	Nantes	1
-4	à	0
-4	Montaigu	3
+Il	0
+y	0
+a	0
+t-il	0
+des	0
+trains	0
+de	0
+Nantes	1
+à	0
+Montaigu	3
 
-5	Une	0
-5	phrase	0
-5	sans	0
-5	origine	0
-5	ni	0
-5	destination	0
+Une	0
+phrase	0
+sans	0
+origine	0
+ni	0
+destination	0
 
-6	Si	0
-6	pas	0
-6	de	0
-6	numéro	0
-6	depuis	0
-6	sequence	0
-6	il	0
-6	zero	0
+Si	0
+pas	0
+de	0
+numéro	0
+depuis	0
+sequence	0
+il	0
+zero	0
 
-7	Is	0
-7	there	0
-7	any	0
-7	train	0
-7	going	0
-7	from	0
-7	Paris	1
-7	to	0
-7	Marseille	3
-7	?	0
+Is	0
+there	0
+any	0
+train	0
+going	0
+from	0
+Paris	1
+to	0
+Marseille	3
+?	0
 
-8	Je	0
-8	souhaite	0
-8	me	0
-8	rendre	0
-8	de	0
-8	Lyon	1
-8	à	0
-8	Paris	3
+Je	0
+souhaite	0
+me	0
+rendre	0
+de	0
+Lyon	1
+à	0
+Paris	3
 
-9	Comment	0
-9	peut-on	0
-9	aller	0
-9	de	0
-9	Bordeaux	1
-9	à	0
-9	Nice	3
-9	en	0
-9	train	0
-9	?	0
+Comment	0
+peut-on	0
+aller	0
+de	0
+Bordeaux	1
+à	0
+Nice	3
+en	0
+train	0
+?	0
 
-10	Je	0
-10	cherche	0
-10	un	0
-10	moyen	0
-10	de	0
-10	voyager	0
-10	de	0
-10	Marseille	1
-10	à	0
-10	Lille	3
-10	en	0
-10	bus	0
-10	ou	0
-10	en	0
-10	avion	0
-10	.	0
+Je	0
+cherche	0
+un	0
+moyen	0
+de	0
+voyager	0
+de	0
+Marseille	1
+à	0
+Lille	3
+en	0
+bus	0
+ou	0
+en	0
+avion	0
+.	0
 
-11	des	0
-11	trains	0
-11	directs	0
-11	de	0
-11	Strasbourg	1
-11	à	0
-11	Nantes	3
+des	0
+trains	0
+directs	0
+de	0
+Strasbourg	1
+à	0
+Nantes	3
 
-12	Paris	1
-12	est	0
-12	une	0
-12	grande	0
-12	ville	0
-12	avec	0
-12	beaucoup	0
-12	de	0
-12	sites	0
-12	touristiques	0
+Paris	1
+est	0
+une	0
+grande	0
+ville	0
+avec	0
+beaucoup	0
+de	0
+sites	0
+touristiques	0
 
-13	Je	0
-13	veux	0
-13	aller	0
-13	de	0
-13	Brest	1
-13	à	0
-13	Rennes	3
-13	pour	0
-13	un	0
-13	voyage	0
-13	d'affaires	0
-13	.	0
+Je	0
+veux	0
+aller	0
+de	0
+Brest	1
+à	0
+Rennes	3
+pour	0
+un	0
+voyage	0
+d'affaires	0
+.	0
 
-14	Je	0
-14	souhaite	0
-14	partir	0
-14	de	0
-14	Marseille	1
-14	à	0
-14	Paris	3
+Je	0
+souhaite	0
+partir	0
+de	0
+Marseille	1
+à	0
+Paris	3
 
-15	Quel	0
-15	est	0
-15	le	0
-15	chemin	0
-15	de	0
-15	Lille	1
-15	à	0
-15	Toulouse	3
-15	?	0
+Quel	0
+est	0
+le	0
+chemin	0
+de	0
+Lille	1
+à	0
+Toulouse	3
+?	0
 
-16	J'aimerais	0
-16	aller	0
-16	de	0
-16	Strasbourg	1
-16	à	0
-16	Nantes	3
-16	en	0
-16	train	0
-16	.	0
+J'aimerais	0
+aller	0
+de	0
+Strasbourg	1
+à	0
+Nantes	3
+en	0
+train	0
+.	0
 
-17	De	0
-17	Nice	1
-17	à	0
-17	Marseille	3
-17	en	0
-17	avion	0
-17	ou	0
-17	en	0
-17	train	0
-17	?	0
-17	Quelle	0
-17	est	0
-17	la	0
-17	meilleure	0
-17	option	0
-17	?	0
-17	Est-ce	0
-17	qu'il	0
-17	y	0
-17	a	0
-17	des	0
-17	directs	0
-17	?	0
-17	Combien	0
-17	de	0
-17	temps	0
-17	ça	0
-17	prend	0
-17	?	0
-17	Quel	0
-17	est	0
-17	le	0
-17	prix	0
-17	?	0
-17	Est-ce	0
-17	que	0
-17	je	0
-17	peux	0
-17	acheter	0
-17	un	0
-17	billet	0
-17	en	0
-17	ligne	0
-17	?	0
+De	0
+Nice	1
+à	0
+Marseille	3
+en	0
+avion	0
+ou	0
+en	0
+train	0
+?	0
+Quelle	0
+est	0
+la	0
+meilleure	0
+option	0
+?	0
+Est-ce	0
+qu'il	0
+y	0
+a	0
+des	0
+directs	0
+?	0
+Combien	0
+de	0
+temps	0
+ça	0
+prend	0
+?	0
+Quel	0
+est	0
+le	0
+prix	0
+?	0
+Est-ce	0
+que	0
+je	0
+peux	0
+acheter	0
+un	0
+billet	0
+en	0
+ligne	0
+?	0
 
-18	Quels	0
-18	sont	0
-18	les	0
-18	horaires	0
-18	des	0
-18	trains	0
-18	de	0
-18	Paris	1
-18	à	0
-18	Lyon	3
-18	?	0
+Quels	0
+sont	0
+les	0
+horaires	0
+des	0
+trains	0
+de	0
+Paris	1
+à	0
+Lyon	3
+?	0
 
-19	Combien	0
-19	coûte	0
-19	un	0
-19	billet	0
-19	de	0
-19	Bordeaux	1
-19	à	0
-19	Nantes	3
-19	en	0
-19	train	0
-19	?	0
+Combien	0
+coûte	0
+un	0
+billet	0
+de	0
+Bordeaux	1
+à	0
+Nantes	3
+en	0
+train	0
+?	0
 
-20	Est-ce	0
-20	que	0
-20	je	0
-20	peux	0
-20	acheter	0
-20	un	0
-20	billet	0
-20	de	1
-20	Lyon	0
-20	à	3
-20	Marseille	0
-20	à	0
-20	la	0
-20	gare	0
-20	de	0
-20	Toulouse	0
-20	?	0
+Est-ce	0
+que	0
+je	0
+peux	0
+acheter	0
+un	0
+billet	0
+de	1
+Lyon	0
+à	3
+Marseille	0
+à	0
+la	0
+gare	0
+de	0
+Toulouse	0
+?	0
 
-21	Paris	1
-21	est	0
-21	une	0
-21	grande	0
-21	ville	0
-21	avec	0
-21	beaucoup	0
-21	de	0
-21	sites	0
-21	touristiques	0
+Paris	1
+est	0
+une	0
+grande	0
+ville	0
+avec	0
+beaucoup	0
+de	0
+sites	0
+touristiques	0
 
-22	Je	0
-22	cherche	0
-22	un	0
-22	vol	0
-22	de	0
-22	Marseille	1
-22	à	0
-22	Lyon	3
-22	pour	0
-22	demain	0
-22	.	0
+Je	0
+cherche	0
+un	0
+vol	0
+de	0
+Marseille	1
+à	0
+Lyon	3
+pour	0
+demain	0
+.	0
 
-23	Je	0
-23	veux	0
-23	un	0
-23	billet	0
-23	d'avion	0
-23	de	1
-23	Nice	0
-23	à	3
-23	Marseille	0
+Je	0
+veux	0
+un	0
+billet	0
+d'avion	0
+de	1
+Nice	0
+à	3
+Marseille	0
 
